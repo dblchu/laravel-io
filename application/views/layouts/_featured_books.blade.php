@@ -31,4 +31,12 @@
         </a>
     </div>
 
+    <div class="book">
+        <a href="http://manning.com/surguy" target="_blank">
+            <img alt="Laravel in Action from Manning Publications" src="{{ URL::to_asset('img/book-laravel-in-action-maks-surguy-jeffrey-way.jpg') }}">
+            <div class="title">Laravel in Action</div>
+            <div class="author">by Maks Surguy and Jeffrey Way</div>
+        </a>
+    </div>
+
 </section>
